@@ -1,2 +1,2 @@
 Age calculator using html, css, javascript..
-live demo  ==>  age-calculator-mk.netlify.app
+live demo  ==>  https://age-calculator-mk.netlify.app/
