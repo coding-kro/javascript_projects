@@ -13,13 +13,17 @@ Type a URL or any text, choose a size, generate a QR code and download it as an 
 
 ---
 
-## Live Preview / Demo 🖼️
 
+## Live Preview 
+
+- 👉 [Click me to try](https://qr-code-generator-jsm.netlify.app/)
 
 ---
+##  Demo 🖼️
+![qrcode-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f7ad1335-148c-4603-ac71-2868de112c54)
 
 
----
+ ---
 
 ## How to use ✅
 1. Open `index.html` in your web browser.  
@@ -39,19 +43,9 @@ No build tools required.
 
 ---
 
-## Customization 🎨
-- Change the theme colors in `style.css`.
-- Add more sizes to the `<select id="sizes">`.
-- Replace `qrcodejs` with another QR library if you need advanced features.
 
----
+## Contact 📬
 
-## Known Issues & Fixes 🩺
-- In `script.js`, change `herf` ➝ `href` in the download button logic.  
-- Fix the media query syntax in `style.css`:  
-  ```css
-  @media screen and (max-width: 520px) {
-    .box { width: 80%; }
-    .qr-footer a { padding: 12px; font-size: 16px; }
-  }
+- 💻 Created by ❤️ from Mohit Kumar
+- 💼 LinkedIn: [Mohit Kumar](https://www.linkedin.com/in/mohit-kumar16/)
 
