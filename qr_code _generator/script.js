@@ -20,10 +20,10 @@ downloadBtn.addEventListener('click', () => {
   let img = document.querySelector('.qr-body img');
   if (img !== null) {
     let imgAtrr = img.getAttribute('src');
-    downloadBtn.setAttribute('herf', imgAtrr);
+    downloadBtn.setAttribute('href', imgAtrr);
   } else {
     downloadBtn.setAttribute(
-      'herf',
+      'href',
       $`{document.querySelector('canvas').toDataURL()}`
     );
   }
@@ -45,3 +45,4 @@ function generateQRCode() {
     colorDark: '#000',
   });
 }
+
