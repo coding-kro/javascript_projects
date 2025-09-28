@@ -5,16 +5,9 @@ Type a URL or any text, choose a size, generate a QR code and download it as an 
 
 ---
 
-## Features ✨
-- Generate QR codes from text or URLs.
-- Choose from multiple preset sizes (100×100 → 1000×1000).
-- One-click download of the generated QR as a PNG.
-- Small, dependency-light project (uses `qrcodejs` CDN).
-
----
 
 
-## Live Preview 
+## Live Preview 🌐
 
 - 👉 [Click me to try](https://qr-code-generator-jsm.netlify.app/)
 
@@ -24,6 +17,15 @@ Type a URL or any text, choose a size, generate a QR code and download it as an 
 
 
  ---
+
+ ## Features ✨
+- Generate QR codes from text or URLs.
+- Choose from multiple preset sizes (100×100 → 1000×1000).
+- One-click download of the generated QR as a PNG.
+- Small, dependency-light project (uses `qrcodejs` CDN).
+
+---
+
 
 ## How to use ✅
 1. Open `index.html` in your web browser.  
