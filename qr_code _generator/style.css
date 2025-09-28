@@ -85,7 +85,7 @@ select {
   border-radius: 8px;
 }
 
-@media screen and(max-width:520px) {
+@media screen and (max-width:520px) {
   .box {
     width: 80%;
   }
@@ -95,3 +95,4 @@ select {
     font-size: 16px;
   }
 }
+
