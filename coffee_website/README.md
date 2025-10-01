@@ -43,5 +43,5 @@ Welcome to **Cafeverse** — your online coffee universe ☕🌍
 
 ## 📞 Contact Me
 
-- Made of ❤️ by  Mohit Kumar.
+- Made with ❤️ by  Mohit Kumar.
 - LinkedIn : [Mohit Kumar](https://www.linkedin.com/in/mohit-kumar16/)
