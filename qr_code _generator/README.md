@@ -48,6 +48,6 @@ No build tools required.
 
 ## Contact 📬
 
-- 💻 Created by ❤️ from Mohit Kumar
+- 💻 Created with ❤️ by Mohit Kumar
 - 💼 LinkedIn: [Mohit Kumar](https://www.linkedin.com/in/mohit-kumar16/)
 
