@@ -36,7 +36,6 @@
 - **Frontend:** HTML, CSS, JavaScript  
 - **AI Model:** Stable Diffusion / AI Image Generation API  
 - **Deployment:** Netlify
-- 
 ---
 
 ##📬 Contact Me
