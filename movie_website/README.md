@@ -11,9 +11,12 @@ Check out the live project here: [MoviesBuzz](https://moviesbuzz-js.netlify.app/
 
 ---
 
-## 📸 Screenshots
+## 📸 GIFs
+
+![1movie-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/be5202b9-aa5b-4707-a4be-52c8b8fe4a82)
 
 
+![iPhone-13-PRO-127 0 0 1-671h7dggrns4tv-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/b7ecb679-a108-409a-8455-0612f418086f)
 
 
 ## 🌟 Features
@@ -39,3 +42,4 @@ Check out the live project here: [MoviesBuzz](https://moviesbuzz-js.netlify.app/
 
 - Made with ❤️ by Mohit Kumar
 - [Linkedin](https://www.linkedin.com/in/mohit-kumar16/)
+  ---
